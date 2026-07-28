@@ -34,11 +34,11 @@ useEffect(() => {
   onClick={(e) => e.stopPropagation()}
   className="relative w-full max-w-6xl h-[90vh] overflow-y-auto rounded-3xl bg-[#0a0a0a] border border-white/10"
 >
+
               <button
                 onClick={onClose}
                 className="absolute top-6 right-6 text-white text-3xl"
               >
-                ✕
               </button>
 
              <motion.div
