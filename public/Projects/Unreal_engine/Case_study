@@ -1,0 +1,1315 @@
+<!-- ==========================================================
+     ADVENTURE GAME PROTOTYPE CASE STUDY
+     PART 1
+=========================================================== -->
+
+<main class="case-study">
+
+    <!-- ==========================================
+         HERO SECTION
+    =========================================== -->
+
+    <section class="case-hero">
+
+        <div class="hero-overlay"></div>
+
+        <div class="container">
+
+            <div class="hero-content">
+
+                <span class="project-category">
+                    Game Development · Unreal Engine
+                </span>
+
+                <h1>
+                    Adventure Game Prototype
+                </h1>
+
+                <p class="hero-description">
+
+                    My first Unreal Engine project focused on creating an
+                    interactive adventure experience using Blueprint scripting,
+                    environmental storytelling, and real-time gameplay mechanics.
+
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="#overview" class="btn-primary">
+                        Explore Project
+                    </a>
+
+                    <a href="../projects.html"
+                       class="btn-secondary">
+
+                        Back to Projects
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         PROJECT INFORMATION
+    =========================================== -->
+
+    <section class="project-information">
+
+        <div class="container">
+
+            <div class="info-grid">
+
+                <div class="info-card">
+
+                    <h4>
+                        Project Type
+                    </h4>
+
+                    <p>
+
+                        Adventure Game Prototype
+
+                    </p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h4>
+
+                        Client
+
+                    </h4>
+
+                    <p>
+
+                        Academic Project
+
+                    </p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h4>
+
+                        Duration
+
+                    </h4>
+
+                    <p>
+
+                        August 2025 – December 2025
+
+                    </p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h4>
+
+                        Role
+
+                    </h4>
+
+                    <p>
+
+                        Game Designer &
+                        Developer
+
+                    </p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h4>
+
+                        Engine
+
+                    </h4>
+
+                    <p>
+
+                        Unreal Engine 5
+
+                    </p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h4>
+
+                        Focus
+
+                    </h4>
+
+                    <p>
+
+                        Gameplay &
+                        Environment Design
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         OVERVIEW
+    =========================================== -->
+
+    <section
+        id="overview"
+        class="project-overview">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Overview
+
+                </span>
+
+                <h2>
+
+                    My First Journey into Game Development
+
+                </h2>
+
+            </div>
+
+            <div class="overview-content">
+
+                <p>
+
+                    This project marked my first experience working with
+                    Unreal Engine and real-time game development.
+                    Rather than simply following tutorials, I challenged
+                    myself to build an interactive adventure prototype that
+                    combined exploration, player interaction, Blueprint
+                    scripting, and environmental storytelling.
+
+                </p>
+
+                <p>
+
+                    The objective was to understand how professional game
+                    engines work while learning the core principles behind
+                    level design, player movement, lighting, gameplay logic,
+                    and immersive world building.
+
+                </p>
+
+                <p>
+
+                    By the end of the project I had created a playable
+                    experience where players explore a mysterious
+                    environment, interact with objects, unlock rewards,
+                    and complete a simple gameplay objective.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         THE CHALLENGE
+    =========================================== -->
+
+    <section class="project-challenge">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    The Challenge
+
+                </span>
+
+                <h2>
+
+                    Learning an Entire Game Engine from Scratch
+
+                </h2>
+
+            </div>
+
+            <div class="challenge-content">
+
+                <p>
+
+                    Since this was my first Unreal Engine project,
+                    everything—from navigating the editor to Blueprint
+                    scripting—was completely new.
+
+                </p>
+
+                <p>
+
+                    Beyond learning the software itself, I also needed
+                    to understand level design, lighting, player controls,
+                    object interaction, and how multiple gameplay systems
+                    work together inside a real-time environment.
+
+                </p>
+
+                <p>
+
+                    My goal was not only to build a playable game,
+                    but to gain practical experience solving problems,
+                    experimenting with mechanics, and turning ideas into
+                    interactive experiences.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         OBJECTIVES
+    =========================================== -->
+
+    <section class="project-objectives">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Objectives
+
+                </span>
+
+                <h2>
+
+                    Project Goals
+
+                </h2>
+
+            </div>
+
+            <div class="objectives-grid">
+
+                <div class="objective-card">
+
+                    <h3>
+
+                        Learn Unreal Engine
+
+                    </h3>
+
+                    <p>
+
+                        Become familiar with the engine,
+                        editor and development workflow.
+
+                    </p>
+
+                </div>
+
+                <div class="objective-card">
+
+                    <h3>
+
+                        Blueprint Scripting
+
+                    </h3>
+
+                    <p>
+
+                        Create gameplay mechanics
+                        without traditional coding.
+
+                    </p>
+
+                </div>
+
+                <div class="objective-card">
+
+                    <h3>
+
+                        Environment Design
+
+                    </h3>
+
+                    <p>
+
+                        Build an immersive
+                        3D adventure world.
+
+                    </p>
+
+                </div>
+
+                <div class="objective-card">
+
+                    <h3>
+
+                        Interactive Gameplay
+
+                    </h3>
+
+                    <p>
+
+                        Design meaningful
+                        player interactions.
+
+                    </p>
+
+                </div>
+
+                <div class="objective-card">
+
+                    <h3>
+
+                        Atmosphere
+
+                    </h3>
+
+                    <p>
+
+                        Use lighting and fog
+                        to improve immersion.
+
+                    </p>
+
+                </div>
+
+                <div class="objective-card">
+
+                    <h3>
+
+                        Complete Prototype
+
+                    </h3>
+
+                    <p>
+
+                        Deliver a playable
+                        adventure experience.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         LEARNING STRATEGY
+    =========================================== -->
+
+    <section class="research-section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Learning Strategy
+
+                </span>
+
+                <h2>
+
+                    Building Knowledge Through Experimentation
+
+                </h2>
+
+            </div>
+
+            <p class="section-intro">
+
+                Since Unreal Engine was completely new to me,
+                I adopted a hands-on learning approach by combining
+                structured tutorials with continuous experimentation.
+                Each feature was implemented and refined through testing,
+                allowing me to understand not only how the engine works,
+                but why different design decisions improve gameplay.
+
+            </p>
+
+            <div class="research-grid">
+
+                <div class="research-card">
+
+                    <h3>
+
+                        Engine Fundamentals
+
+                    </h3>
+
+                    <ul>
+
+                        <li>Editor navigation</li>
+
+                        <li>Viewport controls</li>
+
+                        <li>Asset management</li>
+
+                        <li>Scene organization</li>
+
+                        <li>Project structure</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="research-card">
+
+                    <h3>
+
+                        Blueprint System
+
+                    </h3>
+
+                    <ul>
+
+                        <li>Blueprint basics</li>
+
+                        <li>Interactive objects</li>
+
+                        <li>Gameplay events</li>
+
+                        <li>Player input</li>
+
+                        <li>Visual scripting</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="research-card">
+
+                    <h3>
+
+                        Environment Design
+
+                    </h3>
+
+                    <ul>
+
+                        <li>Lighting</li>
+
+                        <li>Fog effects</li>
+
+                        <li>Asset placement</li>
+
+                        <li>Environmental storytelling</li>
+
+                        <li>World building</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         DEVELOPMENT PROCESS
+    =========================================== -->
+
+    <section class="design-process">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Development Process
+
+                </span>
+
+                <h2>
+
+                    From Learning to Gameplay
+
+                </h2>
+
+            </div>
+
+            <div class="timeline">
+
+                <div class="timeline-item">
+
+                    <span>01</span>
+
+                    <h3>
+
+                        Learn
+
+                    </h3>
+
+                    <p>
+
+                        Explored Unreal Engine,
+                        Blueprints,
+                        assets,
+                        lighting,
+                        and development tools.
+
+                    </p>
+
+                </div>
+
+                <div class="timeline-item">
+
+                    <span>02</span>
+
+                    <h3>
+
+                        Design
+
+                    </h3>
+
+                    <p>
+
+                        Built an atmospheric
+                        environment focused
+                        on exploration and discovery.
+
+                    </p>
+
+                </div>
+
+                <div class="timeline-item">
+
+                    <span>03</span>
+
+                    <h3>
+
+                        Develop
+
+                    </h3>
+
+                    <p>
+
+                        Created player movement,
+                        interactive chest,
+                        and Blueprint gameplay systems.
+
+                    </p>
+
+                </div>
+
+                <div class="timeline-item">
+
+                    <span>04</span>
+
+                    <h3>
+
+                        Test
+
+                    </h3>
+
+                    <p>
+
+                        Refined gameplay,
+                        interactions,
+                        lighting,
+                        and overall player experience.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>    <!-- ==========================================
+         GAMEPLAY FEATURES
+    =========================================== -->
+
+    <section class="project-solution">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Gameplay
+
+                </span>
+
+                <h2>
+
+                    Creating an Interactive Adventure Experience
+
+                </h2>
+
+            </div>
+
+            <p class="section-intro">
+
+                Once the core environment was completed, I focused on adding
+                gameplay mechanics that encouraged exploration and rewarded
+                player interaction. Using Unreal Engine's Blueprint Visual
+                Scripting system, I transformed a static environment into an
+                engaging playable experience where each interaction contributes
+                to the player's progression.
+
+            </p>
+
+            <div class="solution-grid">
+
+                <div class="solution-card">
+
+                    <h3>
+
+                        Exploration
+
+                    </h3>
+
+                    <ul>
+
+                        <li>Open 3D environment</li>
+
+                        <li>Free player movement</li>
+
+                        <li>Environmental storytelling</li>
+
+                        <li>Immersive world design</li>
+
+                        <li>Atmospheric exploration</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="solution-card">
+
+                    <h3>
+
+                        Interactive Gameplay
+
+                    </h3>
+
+                    <ul>
+
+                        <li>Blueprint-driven interaction</li>
+
+                        <li>Interactive treasure chest</li>
+
+                        <li>E key interaction system</li>
+
+                        <li>Object animations</li>
+
+                        <li>Mission progression</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="solution-card">
+
+                    <h3>
+
+                        Reward System
+
+                    </h3>
+
+                    <ul>
+
+                        <li>Chest opening animation</li>
+
+                        <li>Glowing sword spawn</li>
+
+                        <li>Mission completed message</li>
+
+                        <li>Visual player feedback</li>
+
+                        <li>Gameplay satisfaction</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         MY CONTRIBUTIONS
+    =========================================== -->
+
+    <section class="my-role">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    My Contributions
+
+                </span>
+
+                <h2>
+
+                    Responsibilities Throughout Development
+
+                </h2>
+
+            </div>
+
+            <div class="contribution-grid">
+
+                <div class="contribution-card">
+
+                    <h3>
+
+                        Level Design
+
+                    </h3>
+
+                    <p>
+
+                        Designed and organized the game environment
+                        using terrain, environmental assets, and
+                        composition techniques to encourage exploration.
+
+                    </p>
+
+                </div>
+
+                <div class="contribution-card">
+
+                    <h3>
+
+                        Blueprint Scripting
+
+                    </h3>
+
+                    <p>
+
+                        Developed gameplay interactions using Unreal
+                        Engine Blueprints, including object events,
+                        player input, and mission logic.
+
+                    </p>
+
+                </div>
+
+                <div class="contribution-card">
+
+                    <h3>
+
+                        Gameplay Mechanics
+
+                    </h3>
+
+                    <p>
+
+                        Implemented smooth player movement,
+                        camera controls,
+                        object interaction,
+                        and progression systems.
+
+                    </p>
+
+                </div>
+
+                <div class="contribution-card">
+
+                    <h3>
+
+                        Environment Art
+
+                    </h3>
+
+                    <p>
+
+                        Enhanced the atmosphere using lighting,
+                        fog effects,
+                        environmental assets,
+                        and scene composition.
+
+                    </p>
+
+                </div>
+
+                <div class="contribution-card">
+
+                    <h3>
+
+                        Testing & Debugging
+
+                    </h3>
+
+                    <p>
+
+                        Continuously tested gameplay mechanics,
+                        interaction triggers,
+                        collision,
+                        and player movement.
+
+                    </p>
+
+                </div>
+
+                <div class="contribution-card">
+
+                    <h3>
+
+                        Problem Solving
+
+                    </h3>
+
+                    <p>
+
+                        Learned unfamiliar systems quickly,
+                        experimented with different solutions,
+                        and refined gameplay through iteration.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         TECHNOLOGIES
+    =========================================== -->
+
+    <section class="technologies">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Technologies
+
+                </span>
+
+                <h2>
+
+                    Tools & Software
+
+                </h2>
+
+            </div>
+
+            <div class="tech-badges">
+
+                <span>Unreal Engine 5</span>
+
+                <span>Blueprint Visual Scripting</span>
+
+                <span>Level Design</span>
+
+                <span>Lighting</span>
+
+                <span>Fog Effects</span>
+
+                <span>Environment Design</span>
+
+                <span>Gameplay Logic</span>
+
+                <span>Player Controller</span>
+
+                <span>Asset Management</span>
+
+                <span>Visual Storytelling</span>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         PROJECT GALLERY
+    =========================================== -->
+
+    <section class="project-gallery">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Gallery
+
+                </span>
+
+                <h2>
+
+                    Gameplay Showcase
+
+                </h2>
+
+            </div>
+
+            <div class="gallery-grid">
+
+                <figure>
+
+                    <img src="../assets/images/unreal/level-overview.jpg"
+                         alt="Game Environment">
+
+                    <figcaption>
+
+                        Adventure Environment
+
+                    </figcaption>
+
+                </figure>
+
+                <figure>
+
+                    <img src="../assets/images/unreal/exploration.jpg"
+                         alt="Exploration">
+
+                    <figcaption>
+
+                        Player Exploration
+
+                    </figcaption>
+
+                </figure>
+
+                <figure>
+
+                    <img src="../assets/images/unreal/chest.jpg"
+                         alt="Treasure Chest">
+
+                    <figcaption>
+
+                        Interactive Treasure Chest
+
+                    </figcaption>
+
+                </figure>
+
+                <figure>
+
+                    <img src="../assets/images/unreal/sword.jpg"
+                         alt="Reward">
+
+                    <figcaption>
+
+                        Reward Spawn System
+
+                    </figcaption>
+
+                </figure>
+
+                <figure>
+
+                    <img src="../assets/images/unreal/blueprints.jpg"
+                         alt="Blueprint Logic">
+
+                    <figcaption>
+
+                        Blueprint Gameplay Logic
+
+                    </figcaption>
+
+                </figure>
+
+                <figure>
+
+                    <img src="../assets/images/unreal/mission.jpg"
+                         alt="Mission Complete">
+
+                    <figcaption>
+
+                        Mission Complete
+
+                    </figcaption>
+
+                </figure>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         RESULTS
+    =========================================== -->
+
+    <section class="project-results">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Results
+
+                </span>
+
+                <h2>
+
+                    Final Gameplay Experience
+
+                </h2>
+
+            </div>
+
+            <div class="results-grid">
+
+                <div class="result-card">
+
+                    ✔ Playable 3D adventure prototype
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Interactive gameplay mechanics
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Blueprint-driven interactions
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Responsive player controls
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Atmospheric lighting & fog
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Interactive reward system
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Mission completion feedback
+
+                </div>
+
+                <div class="result-card">
+
+                    ✔ Immersive exploration experience
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         SKILLS GAINED
+    =========================================== -->
+
+    <section class="achievements">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Skills Gained
+
+                </span>
+
+                <h2>
+
+                    Technical Growth
+
+                </h2>
+
+            </div>
+
+            <ul class="achievement-list">
+
+                <li>Unreal Engine fundamentals</li>
+
+                <li>Blueprint Visual Scripting</li>
+
+                <li>Level & environment design</li>
+
+                <li>Interactive gameplay development</li>
+
+                <li>Lighting and atmosphere creation</li>
+
+                <li>Player controller implementation</li>
+
+                <li>Gameplay testing and debugging</li>
+
+                <li>Creative problem-solving</li>
+
+            </ul>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         IMPACT & REFLECTION
+    =========================================== -->
+
+    <section class="lessons-learned">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>
+
+                    Reflection
+
+                </span>
+
+                <h2>
+
+                    From Player to Creator
+
+                </h2>
+
+            </div>
+
+            <p>
+
+                This project represented a major milestone in my learning
+                journey. It challenged me to step beyond traditional web
+                development and explore the world of interactive game design.
+                Working with Unreal Engine taught me how environments,
+                gameplay systems, and visual storytelling come together to
+                create engaging player experiences. More importantly, it
+                strengthened my confidence in learning complex technologies,
+                experimenting with new ideas, and transforming creative
+                concepts into functional digital experiences. The experience
+                inspired me to continue expanding my knowledge of game
+                development and build increasingly immersive projects in
+                the future.
+
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==========================================
+         NEXT PROJECT
+    =========================================== -->
+
+    <section class="next-project">
+
+        <div class="container">
+
+            <div class="next-project-content">
+
+                <span>
+
+                    Continue Exploring
+
+                </span>
+
+                <h2>
+
+                    Turret Defense System
+
+                </h2>
+
+                <p>
+
+                    Discover how I expanded my Unreal Engine knowledge by
+                    developing an automated turret system featuring enemy
+                    detection, projectile mechanics, collision logic, and
+                    real-time gameplay interactions.
+
+                </p>
+
+                <a href="turret.html"
+                   class="btn-primary">
+
+                    Next Case Study →
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
