@@ -168,7 +168,7 @@ export const aboutContent = {
   paragraph2:
     "I believe great software is built by combining thoughtful design, clean development practices, accessibility, and continuous learning. Every project is an opportunity to create meaningful digital experiences.",
 
-  image: "/images/about.jpg",
+  image: "src/assets/about/maandaman.png",
 
   highlights: [
     "Frontend Development",
