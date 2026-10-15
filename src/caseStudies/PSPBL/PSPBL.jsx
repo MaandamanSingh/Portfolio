@@ -836,27 +836,27 @@ const PSPBL = ({ setProject, nextProject }) => { return (
             {[
               {
                 title: "Wireframes",
-                image: "/projects/pspbl/wireframes.jpg",
+                image: "/projects/pspbl/wireframes.png",
               },
               {
                 title: "Information Architecture",
-                image: "/projects/pspbl/sitemap.jpg",
+                image: "/projects/pspbl/sitemap.png",
               },
               {
                 title: "Design System",
-                image: "/projects/pspbl/design-system.jpg",
+                image: "/projects/pspbl/design.png",
               },
               {
                 title: "Responsive Mockups",
-                image: "/projects/pspbl/mockups.jpg",
+                image: "/projects/pspbl/mockups.png",
               },
               {
                 title: "Mobile Experience",
-                image: "/projects/pspbl/mobile.jpg",
+                image: "/projects/pspbl/mobile.png",
               },
               {
                 title: "Final Website",
-                image: "/projects/pspbl/final-design.jpg",
+                image: "/projects/pspbl/final.png",
               },
             ].map((item) => (
 
