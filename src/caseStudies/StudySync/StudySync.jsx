@@ -847,27 +847,27 @@ const StudySync = ({ setProject, nextProject }) => {
 
             {[
               {
-                image:"wireframes",
+                image:"./src/caseStudies/StudySync/wireframes.jpg",
                 title:"Wireframes"
               },
               {
-                image:"mockups",
+                image:"./src/caseStudies/StudySync/assets/mockups.jpg",
                 title:"UI Mockups"
               },
               {
-                image:"flutterflow",
+                image:"./src/caseStudies/StudySync/assets/flutterflow.jpg",
                 title:"FlutterFlow Development"
               },
               {
-                image:"firebase",
+                image:"./src/caseStudies/StudySync/assets/firebase.jpg",
                 title:"Firebase Integration"
               },
               {
-                image:"persona",
+                image:"./src/caseStudies/StudySync/assets/persona.jpg",
                 title:"User Persona"
               },
               {
-                image:"final-app",
+                image:"./src/caseStudies/StudySync/assets/final-app.jpg",
                 title:"Final Mobile App"
               },
             ].map((item)=>(
@@ -879,10 +879,9 @@ const StudySync = ({ setProject, nextProject }) => {
               >
 
                 <img
-                  src={`/projects/studysync/${item.image}.jpg`}
+                  src={item.image}
                   alt={item.title}
-                  className="w-full aspect-[4/5] object-cover transition duration-500 hover:scale-105"
-                />
+                  className="h-90 w-full bg-black object-contain transition duration-500 hover:scale-105"         />
 
                 <div className="p-6">
 

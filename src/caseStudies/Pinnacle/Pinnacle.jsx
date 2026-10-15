@@ -530,19 +530,19 @@ const Pinnacle = ({ setProject, nextProject }) => { return (
             {[
               {
                 title: "Homepage Redesign",
-                image: "/projects/pinnacle/gallery-1.jpg",
+                image: "./src/caseStudies/Pinnacle/gallery-1.jpg",
               },
               {
                 title: "Event Inspiration Gallery",
-                image: "/projects/pinnacle/gallery-2.jpg",
+                image: "./src/caseStudies/Pinnacle/gallery-2.jpg",
               },
               {
                 title: "AI Customer Assistant",
-                image: "/projects/pinnacle/gallery-3.jpg",
+                image: "./src/caseStudies/Pinnacle/gallery-3.jpg",
               },
               {
                 title: "Responsive Experience",
-                image: "/projects/pinnacle/gallery-4.jpg",
+                image: "./src/caseStudies/Pinnacle/gallery-4.jpg",
               },
             ].map((item) => (
               <figure
@@ -552,8 +552,8 @@ const Pinnacle = ({ setProject, nextProject }) => { return (
                 <img
                   src={item.image}
                   alt={item.title}
-                  className="h-80 w-full object-cover transition duration-500 hover:scale-105"
-                />
+                  className="h-90 w-full bg-black object-contain transition duration-500 hover:scale-105"                />
+              
 
                 <figcaption className="p-6 text-lg font-semibold">
                   {item.title}

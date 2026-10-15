@@ -836,27 +836,27 @@ const PSPBL = ({ setProject, nextProject }) => { return (
             {[
               {
                 title: "Wireframes",
-                image: "/projects/pspbl/wireframes.png",
+                image: "./src/caseStudies/PSPBL/wireframes.png",
               },
               {
                 title: "Information Architecture",
-                image: "/projects/pspbl/sitemap.png",
+                image: "./src/caseStudies/PSPBL/sitemap.png",
               },
               {
                 title: "Design System",
-                image: "/projects/pspbl/design.png",
+                image: "./src/caseStudies/PSPBL/design.png",
               },
               {
                 title: "Responsive Mockups",
-                image: "/projects/pspbl/mockups.png",
+                image: "./src/caseStudies/PSPBL/mockups.jpg",
               },
               {
                 title: "Mobile Experience",
-                image: "/projects/pspbl/mobile.png",
+                image: "./src/caseStudies/PSPBL/mobile.png",
               },
               {
                 title: "Final Website",
-                image: "/projects/pspbl/final.png",
+                image: "./src/caseStudies/PSPBL/final.png",
               },
             ].map((item) => (
 
@@ -868,8 +868,7 @@ const PSPBL = ({ setProject, nextProject }) => { return (
                 <img
                   src={item.image}
                   alt={item.title}
-                  className="h-72 w-full object-cover transition duration-500 hover:scale-105"
-                />
+                  className="h-90 w-full bg-black object-contain transition duration-500 hover:scale-105"                />
 
                 <figcaption className="p-6 text-lg font-semibold">
                   {item.title}
